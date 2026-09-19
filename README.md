@@ -2,7 +2,7 @@
 
 
 
-Muse* is an autonomous digital creative sandbox that takes your raw, unpolished, half-baked project ideas and immediately gives them a visual pulse. We completely abandoned strict lines, padding borders, and rigid grids to let heavy typography, messy hand-drawn doodles, and vast fields of naked whitespace do the actual talking. 
+Muse* is an AI powered creative director that takes your raw, unpolished, half-baked project ideas and immediately gives them a visual pulse. We completely abandoned strict lines, padding borders, and rigid grids to let heavy typography, messy hand-drawn doodles, and vast fields of naked whitespace do the actual talking. 
 
 ## Tech Stack:
 
